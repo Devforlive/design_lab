@@ -161,8 +161,8 @@ button:hover,
 .page-portfolio .page-grid {
 	margin-left: -10px;
 }
-.page-portfolio .page-width-30percent {width:29%;}
-.page-portfolio .page-width-40percent {width:42%;}
+.page-portfolio .page-width-30 {width:29%;}
+.page-portfolio .page-width-40 {width:42%;}
 .page-portfolio__item__link {
 	text-decoration: none;
 	color:#fff;
