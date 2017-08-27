@@ -159,7 +159,7 @@ button:hover,
 	padding-left: 10px;
 }
 .page-portfolio .page-grid {
-	margin-left: -10px;
+	margin-left: -10px; /* no padding left */
 }
 .page-portfolio .page-width-30 {width:29%;}
 .page-portfolio .page-width-40 {width:42%;}
